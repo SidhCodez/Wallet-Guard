@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.0,affordable_now,full_payment,2025-08-03:15656000.00,2025-08-03,none,Full payment is safe today and keeps balance above minimum.
+request_27,6670.0,affordable_now,full_payment,2026-07-05:6670.00,2026-07-05,none,Full payment is safe today and keeps balance above minimum.
+request_28,689.36,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_29,51524.0,affordable_now,full_payment,2025-11-04:51524.00,2025-11-04,none,Full payment is safe today and keeps balance above minimum.
+request_30,775.2,affordable_now,full_payment,2026-04-06:775.20,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_31,13840359.99,affordable_later,wait,none,2024-09-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_32,33305.39,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_33,65179.44,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_34,129400.0,affordable_now,full_payment,2024-12-04:129400.00,2024-12-04,none,Full payment is safe today and keeps balance above minimum.
+request_35,125129.36,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_36,1446.07,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_37,12068799.21,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_38,378.47,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_39,203104.58,affordable_later,wait,none,2026-04-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_40,850.54,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_41,21888949.95,affordable_later,wait,none,2025-11-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_42,52100.0,affordable_now,full_payment,2026-01-05:52100.00,2026-01-05,none,Full payment is safe today and keeps balance above minimum.
+request_43,13988749.87,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_44,74559.43,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_45,8833099.74,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_46,49450.0,affordable_now,full_payment,2024-12-03:49450.00,2024-12-03,none,Full payment is safe today and keeps balance above minimum.
+request_47,38114000.0,affordable_now,full_payment,2025-05-05:38114000.00,2025-05-05,none,Full payment is safe today and keeps balance above minimum.
+request_48,45700.0,affordable_now,full_payment,2026-07-25:45700.00,2026-07-25,none,Full payment is safe today and keeps balance above minimum.
+request_49,20228792.99,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_50,43900.0,affordable_now,full_payment,2025-08-06:43900.00,2025-08-06,none,Full payment is safe today and keeps balance above minimum.
+request_51,2191000.0,affordable_now,full_payment,2026-01-03:2191000.00,2026-01-03,none,Full payment is safe today and keeps balance above minimum.
+request_52,28870.0,affordable_now,full_payment,2024-06-05:28870.00,2024-06-05,none,Full payment is safe today and keeps balance above minimum.
+request_53,1422.91,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_54,16580.85,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_55,176240.75,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_56,881.56,affordable_now,full_payment,2025-02-03:881.56,2025-02-03,none,Full payment is safe today and keeps balance above minimum.
+request_57,21213.95,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_58,16226000.0,affordable_now,full_payment,2024-12-07:16226000.00,2024-12-07,none,Full payment is safe today and keeps balance above minimum.
+request_59,140600.0,affordable_now,full_payment,2025-05-04:140600.00,2025-05-04,none,Full payment is safe today and keeps balance above minimum.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,none,Full payment is safe today and keeps balance above minimum.
+request_61,29062.0,affordable_now,full_payment,2024-03-03:29062.00,2024-03-03,none,Full payment is safe today and keeps balance above minimum.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Full payment is safe today and keeps balance above minimum.
+request_63,90144.79,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_64,60232.93,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_65,13023.66,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_66,22200.0,affordable_now,full_payment,2026-04-03:22200.00,2026-04-03,none,Full payment is safe today and keeps balance above minimum.
+request_67,792.41,affordable_later,wait,none,2024-09-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_68,2091.6,affordable_now,full_payment,2025-02-07:2091.60,2025-02-07,none,Full payment is safe today and keeps balance above minimum.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,Full payment is safe today and keeps balance above minimum.
+request_70,93359.6,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_71,7485049.61,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_72,11330.0,affordable_now,full_payment,2026-07-05:11330.00,2026-07-05,none,Full payment is safe today and keeps balance above minimum.
+request_73,71400.0,affordable_now,full_payment,2023-01-20:71400.00,2023-01-20,none,Full payment is safe today and keeps balance above minimum.
+request_74,5010.0,affordable_now,full_payment,2025-08-04:5010.00,2025-08-04,none,Full payment is safe today and keeps balance above minimum.
+request_75,28270.0,affordable_now,full_payment,2026-04-06:28270.00,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_76,1538.68,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_77,60700.0,affordable_now,full_payment,2025-11-05:60700.00,2025-11-05,none,Full payment is safe today and keeps balance above minimum.
+request_78,50200.0,affordable_now,full_payment,2025-10-02:50200.00,2025-10-02,none,Full payment is safe today and keeps balance above minimum.
+request_79,1103.64,affordable_with_plan,partial_payment,2024-09-04:1103.64|2024-09-15:1047.96,2024-09-15,none,Request is affordable using partial_payment.
+request_80,152114.93,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_81,2076.0,affordable_now,full_payment,2026-07-03:2076.00,2026-07-03,none,Full payment is safe today and keeps balance above minimum.
+request_82,1011.36,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_83,28329.96,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_84,56564.41,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_85,2422119.72,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_86,46300.0,affordable_now,full_payment,2025-08-03:46300.00,2025-08-03,none,Full payment is safe today and keeps balance above minimum.
+request_87,92849.23,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_88,15557.42,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_89,13756000.0,affordable_now,full_payment,2025-11-04:13756000.00,2025-11-04,none,Full payment is safe today and keeps balance above minimum.
+request_90,2560.0,affordable_now,full_payment,2026-07-06:2560.00,2026-07-06,none,Full payment is safe today and keeps balance above minimum.
+request_91,1927.2,affordable_now,full_payment,2024-09-03:1927.20,2024-09-03,none,Full payment is safe today and keeps balance above minimum.
+request_92,34034.0,affordable_now,full_payment,2025-02-05:34034.00,2025-02-05,none,Full payment is safe today and keeps balance above minimum.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,Full payment is safe today and keeps balance above minimum.
+request_94,572.0,affordable_now,full_payment,2024-12-04:572.00,2024-12-04,none,Full payment is safe today and keeps balance above minimum.
+request_95,137864.48,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_96,90200.0,affordable_now,full_payment,2026-01-03:90200.00,2026-01-03,none,Full payment is safe today and keeps balance above minimum.
+request_97,8865.5,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-15,none,Request is affordable using installments.
+request_98,17244.22,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_99,18062.0,affordable_now,full_payment,2026-07-04:18062.00,2026-07-04,none,Full payment is safe today and keeps balance above minimum.
+request_100,34835.72,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Request is affordable using installments.
+request_101,143500.0,affordable_now,full_payment,2025-11-03:143500.00,2025-11-03,none,Full payment is safe today and keeps balance above minimum.
+request_102,1716.0,affordable_now,full_payment,2026-04-05:1716.00,2026-04-05,none,Full payment is safe today and keeps balance above minimum.
+request_103,35758.86,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_104,17204.0,affordable_now,full_payment,2025-02-04:17204.00,2025-02-04,none,Full payment is safe today and keeps balance above minimum.
+request_105,53500.0,affordable_now,full_payment,2026-06-08:53500.00,2026-06-08,none,Full payment is safe today and keeps balance above minimum.
+request_106,1401.37,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_107,2534.4,affordable_now,full_payment,2025-05-05:2534.40,2025-05-05,none,Full payment is safe today and keeps balance above minimum.
+request_108,7835.92,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_109,1275.63,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-03-15,none,Request is affordable using installments.
+request_110,22352.0,affordable_now,full_payment,2025-08-06:22352.00,2025-08-06,none,Full payment is safe today and keeps balance above minimum.
+request_111,16625000.0,affordable_now,full_payment,2026-04-03:16625000.00,2026-04-03,none,Full payment is safe today and keeps balance above minimum.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,Full payment is safe today and keeps balance above minimum.
+request_113,36500.0,affordable_now,full_payment,2026-09-04:36500.00,2026-09-04,none,Full payment is safe today and keeps balance above minimum.
+request_114,65300.0,affordable_now,full_payment,2026-01-04:65300.00,2026-01-04,none,Full payment is safe today and keeps balance above minimum.
+request_115,27134.48,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_116,58074.27,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_117,880.0,affordable_now,full_payment,2026-07-05:880.00,2026-07-05,none,Full payment is safe today and keeps balance above minimum.
+request_118,738.1,affordable_now,full_payment,2024-12-07:738.10,2024-12-07,none,Full payment is safe today and keeps balance above minimum.
+request_119,130900.5,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_120,7714000.0,affordable_now,full_payment,2026-04-06:7714000.00,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,Full payment is safe today and keeps balance above minimum.
+request_122,20558000.0,affordable_now,full_payment,2025-08-05:20558000.00,2025-08-05,none,Full payment is safe today and keeps balance above minimum.
+request_123,4076000.0,affordable_now,full_payment,2026-01-07:4076000.00,2026-01-07,none,Full payment is safe today and keeps balance above minimum.
+request_124,2049.26,affordable_later,wait,none,2024-06-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_125,6468.0,affordable_now,full_payment,2025-11-06:6468.00,2025-11-06,none,Full payment is safe today and keeps balance above minimum.
+request_126,159600.0,affordable_now,full_payment,2026-07-03:159600.00,2026-07-03,none,Full payment is safe today and keeps balance above minimum.
+request_127,23980.0,affordable_now,full_payment,2024-09-05:23980.00,2024-09-05,none,Full payment is safe today and keeps balance above minimum.
+request_128,25168.0,affordable_now,full_payment,2025-02-07:25168.00,2025-02-07,none,Full payment is safe today and keeps balance above minimum.
+request_129,287.99,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_130,916.93,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_131,1855.2,affordable_now,full_payment,2025-05-03:1855.20,2025-05-03,none,Full payment is safe today and keeps balance above minimum.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,Full payment is safe today and keeps balance above minimum.
+request_133,15770000.0,affordable_now,full_payment,2024-03-07:15770000.00,2024-03-07,none,Full payment is safe today and keeps balance above minimum.
+request_134,12118199.94,affordable_later,wait,none,2025-08-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,none,Full payment is safe today and keeps balance above minimum.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.40,2024-06-03,none,Full payment is safe today and keeps balance above minimum.
+request_137,67959.6,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_138,1209.68,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_139,2185.39,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-09-15,none,Request is affordable using installments.
+request_140,11074.41,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_141,51434.7,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,Full payment is safe today and keeps balance above minimum.
+request_143,8383.44,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Full payment is safe today and keeps balance above minimum.
+request_145,105613.29,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_146,81464.72,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_147,741.37,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_148,13181.07,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_149,36652.0,affordable_now,full_payment,2025-11-04:36652.00,2025-11-04,none,Full payment is safe today and keeps balance above minimum.
+request_150,496.1,affordable_now,full_payment,2026-01-06:496.10,2026-01-06,none,Full payment is safe today and keeps balance above minimum.
+request_151,26999000.0,affordable_now,full_payment,2024-09-03:26999000.00,2024-09-03,none,Full payment is safe today and keeps balance above minimum.
+request_152,13882.0,affordable_now,full_payment,2025-02-05:13882.00,2025-02-05,none,Full payment is safe today and keeps balance above minimum.
+request_153,503.13,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_154,1625.8,affordable_now,full_payment,2024-12-04:1625.80,2024-12-04,none,Full payment is safe today and keeps balance above minimum.
+request_155,112500.0,affordable_now,full_payment,2025-05-06:112500.00,2025-05-06,none,Full payment is safe today and keeps balance above minimum.
+request_156,13588.11,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_157,10091849.81,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_158,242600.0,affordable_now,full_payment,2025-08-07:242600.00,2025-08-07,none,Full payment is safe today and keeps balance above minimum.
+request_159,13398.0,affordable_now,full_payment,2026-01-04:13398.00,2026-01-04,none,Full payment is safe today and keeps balance above minimum.
+request_160,857.44,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_161,17241549.57,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_162,8601299.57,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_163,19304000.0,affordable_now,full_payment,2024-09-07:19304000.00,2024-09-07,none,Full payment is safe today and keeps balance above minimum.
+request_164,27018000.0,affordable_now,full_payment,2025-02-04:27018000.00,2025-02-04,none,Full payment is safe today and keeps balance above minimum.
+request_165,80600.0,affordable_now,full_payment,2026-04-06:80600.00,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_166,2907.6,affordable_now,full_payment,2024-12-03:2907.60,2024-12-03,none,Full payment is safe today and keeps balance above minimum.
+request_167,43802.0,affordable_now,full_payment,2025-05-05:43802.00,2025-05-05,none,Full payment is safe today and keeps balance above minimum.
+request_168,49380.0,affordable_now,full_payment,2026-01-07:49380.00,2026-01-07,none,Full payment is safe today and keeps balance above minimum.
+request_169,41976.0,affordable_now,full_payment,2024-03-04:41976.00,2024-03-04,none,Full payment is safe today and keeps balance above minimum.
+request_170,36936000.0,affordable_now,full_payment,2025-08-06:36936000.00,2025-08-06,none,Full payment is safe today and keeps balance above minimum.
+request_171,310.08,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_172,10200.0,affordable_now,full_payment,2024-06-05:10200.00,2024-06-05,none,Full payment is safe today and keeps balance above minimum.
+request_173,83190.42,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_174,1146.2,affordable_now,full_payment,2026-04-04:1146.20,2026-04-04,none,Full payment is safe today and keeps balance above minimum.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,Full payment is safe today and keeps balance above minimum.
+request_176,686.44,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,Full payment is safe today and keeps balance above minimum.
+request_178,2938.1,affordable_now,full_payment,2024-12-07:2938.10,2024-12-07,none,Full payment is safe today and keeps balance above minimum.
+request_179,37957249.52,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_180,66500.0,affordable_now,full_payment,2026-07-06:66500.00,2026-07-06,none,Full payment is safe today and keeps balance above minimum.
+request_181,1140.67,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_182,65714.0,affordable_now,full_payment,2025-08-05:65714.00,2025-08-05,none,Full payment is safe today and keeps balance above minimum.
+request_183,26866000.0,affordable_now,full_payment,2026-04-07:26866000.00,2026-04-07,none,Full payment is safe today and keeps balance above minimum.
+request_184,47539.71,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_185,783.36,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_186,22862.79,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_187,67434.31,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_188,584.72,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,Full payment is safe today and keeps balance above minimum.
+request_190,1555.35,affordable_later,wait,none,2024-12-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,Full payment is safe today and keeps balance above minimum.
+request_192,384.62,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_193,310.15,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_194,95029.53,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_195,1170.4,affordable_now,full_payment,2026-01-06:1170.40,2026-01-06,none,Full payment is safe today and keeps balance above minimum.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Full payment is safe today and keeps balance above minimum.
+request_197,50939000.0,affordable_now,full_payment,2025-11-05:50939000.00,2025-11-05,none,Full payment is safe today and keeps balance above minimum.
+request_198,185800.0,affordable_now,full_payment,2026-07-07:185800.00,2026-07-07,none,Full payment is safe today and keeps balance above minimum.
+request_199,23674000.0,affordable_now,full_payment,2024-09-04:23674000.00,2024-09-04,none,Full payment is safe today and keeps balance above minimum.
+request_200,21717000.0,affordable_now,full_payment,2025-02-06:21717000.00,2025-02-06,none,Full payment is safe today and keeps balance above minimum.
+request_201,23997000.0,affordable_now,full_payment,2026-04-03:23997000.00,2026-04-03,none,Full payment is safe today and keeps balance above minimum.
+request_202,123900.0,affordable_now,full_payment,2024-12-05:123900.00,2024-12-05,none,Full payment is safe today and keeps balance above minimum.
+request_203,1442.1,affordable_now,full_payment,2025-05-07:1442.10,2025-05-07,none,Full payment is safe today and keeps balance above minimum.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,Full payment is safe today and keeps balance above minimum.
+request_205,10621000.0,affordable_now,full_payment,2024-03-06:10621000.00,2024-03-06,none,Full payment is safe today and keeps balance above minimum.
+request_206,1404.7,affordable_now,full_payment,2025-08-03:1404.70,2025-08-03,none,Full payment is safe today and keeps balance above minimum.
+request_207,11830.0,affordable_now,full_payment,2026-07-05:11830.00,2026-07-05,none,Full payment is safe today and keeps balance above minimum.
+request_208,4413000.0,affordable_now,full_payment,2024-06-07:4413000.00,2024-06-07,none,Full payment is safe today and keeps balance above minimum.
+request_209,8624.46,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_210,1360.02,affordable_now,full_payment,2026-04-06:1360.02,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_211,1227.04,affordable_later,wait,none,2024-09-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_212,22343999.91,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_213,3362.4,affordable_now,full_payment,2026-01-07:3362.40,2026-01-07,none,Full payment is safe today and keeps balance above minimum.
+request_214,69750.0,affordable_now,full_payment,2024-12-04:69750.00,2024-12-04,none,Full payment is safe today and keeps balance above minimum.
+request_215,29986.0,affordable_now,full_payment,2025-05-06:29986.00,2025-05-06,none,Full payment is safe today and keeps balance above minimum.
+request_216,1166.67,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_217,31601.52,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,Request is affordable using installments.
+request_218,37942414.69,affordable_later,wait,none,2025-08-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_219,1673.1,affordable_now,full_payment,2026-04-04:1673.10,2026-04-04,none,Full payment is safe today and keeps balance above minimum.
+request_220,306.83,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_221,109800.0,affordable_now,full_payment,2025-11-03:109800.00,2025-11-03,none,Full payment is safe today and keeps balance above minimum.
+request_222,34078.0,affordable_now,full_payment,2026-01-05:34078.00,2026-01-05,none,Full payment is safe today and keeps balance above minimum.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,Full payment is safe today and keeps balance above minimum.
+request_224,10327000.0,affordable_now,full_payment,2025-02-04:10327000.00,2025-02-04,none,Full payment is safe today and keeps balance above minimum.
+request_225,18120459.45,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_226,157000.0,affordable_now,full_payment,2024-12-03:157000.00,2024-12-03,none,Full payment is safe today and keeps balance above minimum.
+request_227,42754.64,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_228,10557349.18,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_229,726.87,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,Full payment is safe today and keeps balance above minimum.
+request_231,35706.0,affordable_now,full_payment,2026-01-03:35706.00,2026-01-03,none,Full payment is safe today and keeps balance above minimum.
+request_232,1869.09,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_233,6241000.0,affordable_now,full_payment,2025-11-07:6241000.00,2025-11-07,none,Full payment is safe today and keeps balance above minimum.
+request_234,528.45,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,Full payment is safe today and keeps balance above minimum.
+request_236,14404849.95,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_237,23826000.0,affordable_now,full_payment,2026-04-05:23826000.00,2026-04-05,none,Full payment is safe today and keeps balance above minimum.
+request_238,663.6,affordable_now,full_payment,2024-12-07:663.60,2024-12-07,none,Full payment is safe today and keeps balance above minimum.
+request_239,642.0,affordable_now,full_payment,2025-05-04:642.00,2025-05-04,none,Full payment is safe today and keeps balance above minimum.
+request_240,37399.5,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_241,21052000.0,affordable_now,full_payment,2024-03-03:21052000.00,2024-03-03,none,Full payment is safe today and keeps balance above minimum.
+request_242,368.77,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_243,17468.0,affordable_now,full_payment,2026-07-07:17468.00,2026-07-07,none,Full payment is safe today and keeps balance above minimum.
+request_244,49918.0,affordable_now,full_payment,2024-06-04:49918.00,2024-06-04,none,Full payment is safe today and keeps balance above minimum.
+request_245,65759.78,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_246,64086.0,affordable_now,full_payment,2026-04-03:64086.00,2026-04-03,none,Full payment is safe today and keeps balance above minimum.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Full payment is safe today and keeps balance above minimum.
+request_248,1506.83,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_249,342.33,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_250,28819.5,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_251,1513.6,affordable_now,full_payment,2025-05-03:1513.60,2025-05-03,none,Full payment is safe today and keeps balance above minimum.
+request_252,9110499.84,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_253,2143.32,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_254,1758.97,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_255,3345000.0,affordable_now,full_payment,2026-04-06:3345000.00,2026-04-06,none,Full payment is safe today and keeps balance above minimum.
+request_256,218700.0,affordable_now,full_payment,2024-06-03:218700.00,2024-06-03,none,Full payment is safe today and keeps balance above minimum.
+request_257,1084.96,affordable_later,wait,none,2025-11-15,none,Full payment becomes safe on earliest_full_payment_date.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,Full payment is safe today and keeps balance above minimum.
+request_259,627.29,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_260,13522299.52,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,Full payment is safe today and keeps balance above minimum.
+request_262,9236000.0,affordable_now,full_payment,2024-12-05:9236000.00,2024-12-05,none,Full payment is safe today and keeps balance above minimum.
+request_263,13749.32,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_264,39794.64,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_265,45970.0,affordable_now,full_payment,2024-03-06:45970.00,2024-03-06,none,Full payment is safe today and keeps balance above minimum.
+request_266,935.0,affordable_now,full_payment,2025-08-03:935.00,2025-08-03,none,Full payment is safe today and keeps balance above minimum.
+request_267,1925.0,affordable_now,full_payment,2026-01-05:1925.00,2026-01-05,none,Full payment is safe today and keeps balance above minimum.
+request_268,1512.48,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_269,15490.0,affordable_now,full_payment,2025-11-04:15490.00,2025-11-04,none,Full payment is safe today and keeps balance above minimum.
+request_270,535.36,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_271,84759.96,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_272,8815923.95,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_273,13372199.4,not_affordable,not_recommended,none,,none,Not affordable within 90 days. No safe plan found.
+request_274,2713.7,affordable_now,full_payment,2024-12-04:2713.70,2024-12-04,none,Full payment is safe today and keeps balance above minimum.
+request_275,15884000.0,affordable_now,full_payment,2025-05-06:15884000.00,2025-05-06,none,Full payment is safe today and keeps balance above minimum.

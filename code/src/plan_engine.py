@@ -263,7 +263,7 @@ def build_payment_plan_string(plan):
     entries = plan.get("entries", plan) if isinstance(plan, dict) else plan
     if not entries:
         return "none"
-    parts = ["{}:{}".format(e["date"], _format_amount(e["amount"]))
+    parts = ["{}:{:.2f}".format(e["date"], float(e["amount"]))
              for e in sorted(entries, key=lambda e: e["date"])]
     return "|".join(parts)
 
