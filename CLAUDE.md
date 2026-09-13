@@ -171,3 +171,13 @@ cd code
 python main.py
 python -m src.verifier --input ../output.csv --strict
 pytest tests/
+
+## 0. Required Reading Before Any Code
+Every agent must read these files in this exact order before writing any code:
+1. AGENTS.md (official contract, DO NOT EDIT)
+2. CLAUDE.md (this file)
+3. docs/PS_Analysis_Simple.md
+4. docs/PRD.md
+5. docs/SYSTEM_ARCHITECTURE.md
+6. docs/TRD.md (function contracts and algorithms)
+7. docs/AI_RULES.md (LLM behavior rules)
