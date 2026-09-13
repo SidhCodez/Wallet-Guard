@@ -1,0 +1,10 @@
+.venv/
+log.txt
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+models/*.pkl
+data/cache/
+data/synthetic_train.csv
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "model_name": "claude-sonnet-4-6",
+  "forecast_days": 90,
+  "ml_model_type": "xgboost",
+  "dataset_dir": "../dataset",
+  "output_path": "../output.csv",
+  "synthetic_path": "../data/synthetic_train.csv",
+  "confidence_threshold": 0.7
+}
